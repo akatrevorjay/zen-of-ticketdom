@@ -98,7 +98,7 @@ def TAGS():
         """
 
 
-def THE_LIFE_OF_BRIAN_(AND, HIS, TICKET):
+def THE_LIFE_OF_BRIAN(AND, HIS, TICKET):
     """
     * Isn't it awfully nice to have a ticket?
     """
